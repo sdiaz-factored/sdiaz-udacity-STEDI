@@ -46,5 +46,5 @@ Athena: Trusted Zone Query results:
 **Glue job scripts**:
 - [customers_curated.py](scripts/customers_curated.py)
 - [step_trainer_trusted.py](scripts/step_trainer_trusted.py)
-- [Machine_learning_curated.py](scripts/machine_learning_curated.py)
+- [machine_learning_curated.py](scripts/machine_learning_curated.py)
 
