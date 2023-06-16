@@ -27,6 +27,8 @@ Your project work will be evaluated against this rubric. Take a moment to review
 
 *Customer Landing*:
 ![Customer Landing](images/customer_landing.png)
+![Customer Landing All](images/customer_landing_2.png)
+
 
 *Accelerometer Landing*:
 ![Accelerometer Landing](images/accelerometer_landing.png)
@@ -34,8 +36,9 @@ Your project work will be evaluated against this rubric. Take a moment to review
 
 ### Trusted Zone
 **Glue job scripts**:
-- [customer_landing.sql](scripts/customer_trusted.py)
-- [accelerometer_landing.sql](scripts/accelerometer_trusted.py)
+- [customer_trusted.sql](scripts/customer_trusted.py)
+- [accelerometer_trusted.sql](scripts/accelerometer_trusted.py)
+- [customer_trusted_all.sql](scripts/customer_trusted_2.py)
 
 
 Athena: Trusted Zone Query results:
