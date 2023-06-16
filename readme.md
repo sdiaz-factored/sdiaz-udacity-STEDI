@@ -38,11 +38,12 @@ Your project work will be evaluated against this rubric. Take a moment to review
 **Glue job scripts**:
 - [customer_trusted.sql](scripts/customer_trusted.py)
 - [accelerometer_trusted.sql](scripts/accelerometer_trusted.py)
-- [customer_trusted_all.sql](scripts/customer_trusted_2.py)
 
 
 Athena: Trusted Zone Query results:
-![Accelerometer Landing](images/customer_trusted.png)
+![Customer Trusted](images/customer_trusted.png)
+![Customer Trusted All](images/customer_trusted_2.png)
+
 
 
 ### Curated Zone
