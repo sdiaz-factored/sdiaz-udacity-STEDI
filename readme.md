@@ -26,7 +26,7 @@ Your project work will be evaluated against this rubric. Take a moment to review
 - [accelerometer_landing.sql](scripts/accelerometer_landing.sql)
 
 *Customer Landing*:
-![Customer Landing](images/customer_landing.png)
+![Customer Landing](images/customer_landing_1.png)
 ![Customer Landing All](images/customer_landing_2.png)
 
 
@@ -41,7 +41,7 @@ Your project work will be evaluated against this rubric. Take a moment to review
 
 
 Athena: Trusted Zone Query results:
-![Customer Trusted](images/customer_trusted.png)
+![Customer Trusted](images/customer_trusted_1.png)
 ![Customer Trusted All](images/customer_trusted_2.png)
 
 
